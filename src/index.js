@@ -8,7 +8,7 @@ const __filename = fileURLToPath( import.meta.url )
 const __dirname = path.dirname( __filename )
 const images = [
 	{
-		imgURL: "/images/pic03.jpg",
+		imgURL: "/images/pic01.jpg",
 	},
 	{
 		imgURL: "/images/pic02.jpg",
@@ -17,23 +17,26 @@ const images = [
 		imgURL: "/images/pic03.jpg",
 	},
 	{
-		imgURL: "/images/pic02.jpg",
+		imgURL: "/images/pic04.jpg",
 	},
 	{
-		imgURL: "/images/pic03.jpg",
+		imgURL: "/images/pic05.jpg",
 	},
 	{
-		imgURL: "/images/pic02.jpg",
+		imgURL: "/images/pic06.jpg",
 	},
 	{
-		imgURL: "/images/pic03.jpg",
+		imgURL: "/images/pic07.jpg",
 	},
 	
 	{
-		imgURL: "/images/pic02.jpg",
+		imgURL: "/images/pic08.jpg",
 	},
 	{
-		imgURL: "/images/pic03.jpg",
+		imgURL: "/images/pic09.jpg",
+	},
+	{
+		imgURL:"/images/pic10.jpg"
 	}
 ]
 const table = [
